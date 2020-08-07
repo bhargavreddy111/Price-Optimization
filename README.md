@@ -1,2 +1,18 @@
 # Price-Optimization
-Price Optimization for e-bike rental company using PuLP and SciPy Packages
+LA Metro bikes is one of the players in e-bike industry among other major companies like Lime, Bird, Lyft and Uber in its ecosystem.
+In comparision to others in industry, LA metro bikes has different pricing plans based on daily pass, monthly pass, annual pass and
+on-demand basis. In this project, optimization has been done for LA Metro to maximize its revenues in different aspects:
+
+Best combination of daily, monthly and annual passes target to achieve given the demand scenario
+Price optimization in two aspects:
+
+price to be charged for bike ride per 30-minute usage basis
+prices to be charged for different passes.
+
+
+
+References:
+
+https://towardsdatascience.com/la-metro-bike-share-data-part-1-linear-optimization-with-pulp-bc8ed4c85cd2
+https://pypi.org/project/PuLP/
+https://docs.scipy.org/doc/scipy/reference/optimize.minimize-slsqp.html
