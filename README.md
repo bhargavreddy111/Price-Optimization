@@ -12,7 +12,5 @@ prices to be charged for different passes.
 
 
 References:
-
-https://towardsdatascience.com/la-metro-bike-share-data-part-1-linear-optimization-with-pulp-bc8ed4c85cd2
-https://pypi.org/project/PuLP/
-https://docs.scipy.org/doc/scipy/reference/optimize.minimize-slsqp.html
+- https://pypi.org/project/PuLP/
+- https://docs.scipy.org/doc/scipy/reference/optimize.minimize-slsqp.html
